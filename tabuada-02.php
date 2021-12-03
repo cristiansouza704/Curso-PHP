@@ -10,8 +10,7 @@
     <?php
 
     $v = isset($_GET["num"])?$_GET["num"]:1;
-    $c = 10;
-    
+    $c = 11;   
 
     do{
       $m = $c - 1;
